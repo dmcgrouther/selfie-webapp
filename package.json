@@ -1,0 +1,24 @@
+{
+  "name": "selfie-webapp",
+  "version": "1.0.0",
+  "description": "used this heavily https://codecourse.com/watch/take-photos-with-your-webcam-in-your-browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmcgrouther/selfie-webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmcgrouther/selfie-webapp/issues"
+  },
+  "homepage": "https://github.com/dmcgrouther/selfie-webapp#readme",
+  "dependencies": {
+    "@google-cloud/vision": "^1.8.0",
+    "express": "^4.17.1"
+  }
+}
