@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "web-selfie-app",
+  "private_key_id": "3d1d913b098883369968b123d45dbcd5861e0ccc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD7q8s13dlbe30g\nKaZGv206ZYpO6bKJW7jDIA8fHMxmKDlxQuWY8so1uihMlC1JJV3SgmTcqV1LeijI\nHW/Ew7fJ74kF97+OL2oZ9QCG/kLSPbzgGeyj6iFDz9ahgiw/JAm5mcwXo/E07Uga\n/BK25xAsO28z61PuBEMRnj4EJAja+l08ki3iJeL+JzeV0P0/92SOxKNLOM3wgZFI\nUMkA2Glr0N0emusASMT1x5hWUoxMnMFarWVN7qZZS0FqvdZuIQ81hJW9zN6oWfeD\ne5ACpJ/g9dupO7uJsl7CwKb7owua3q4kMMXH8P/UvUt5sjXsfDyQ+yE0+KgWI/3m\npzlpP7U7AgMBAAECggEAPNJvaYTEl3HYMxItv7JatP6+NsUO41hZ5jpUvTmqAlRd\nUYyPzW97xBFJ1PwIl8Fik9H0i0mZJPkQaxCGJwD/5Vsw+9K8piG6XCyUZIuFXacT\nAvvw70pRoMBViDHb/KR6fzL2mo4B6L8hqnfaE/7yryXsAZmxbnf0N4lNRpXo1/ao\nKmvGbvXQt9+XNbcxIsCNxOPfx2qRzkWOSPRjLoCOU+nB6Rv6yIrLTjTjGszhlQUk\nSs6N7TBghHqKkMuEKJzq5Wi4e/yeyTOhWOsDfeerKOWlQJLgSBvjNXljMfaNS6sk\nHQ9ogenyoUE30vrrQuXSxdf1rUJcp32DG9foCVbV6QKBgQD/C1hF/eFeD/1qvF6h\nbVfy06S2lxlcgVjbK1NQvAMnWqmQgfHWWmSvd1NlXohDfpOY3JnTqu2KBsPONrJF\nt+/Ri+7/Vzs2KbJkNIX0OnT3ZJezlcpcxr4dZQHlHHqPnZLfrq1IxQgZoFwBphv1\njxiaDJWRZ781wPBmsKVDO0bRiQKBgQD8nTaP+fylngNpT9Gw+qwLB/6LhJsKAkEF\nFAAopJZ3jSXQqsGqojJIoldPfiu5z6He4NXzgjyalUgtvJs1OeeTwhwp4MCqDq+N\nF8nrxlMmwFIg9es11jGQqjH9XuQ5IpXkzzXtqc2VMyE9mp2wzoOBfC6dYhxQXkx2\n0oXzq5ozowKBgFZb0g0JFTmTcnykweopKyGG9nv5F9ZR2fOEbRamQu8dbNMInQm2\n2+bqIavuYXdxMasN72xTsVEOT1jQ/nZK/QJYPpnpQJxrbAMwIbd738UxI4jkjHvz\ns8YiQI0CoqFkeqoQ7I36YW7D9MN+KnNwe6UV48MzfPRHm186Kwtj0+v5AoGBANZG\n6Oxx6cv2YABps35C88KbsmBYSEbSKKMNFyFikzuvn98DqSl7Udno0tTcOmzv4eez\noehfldauQD6DmMgqaPQeGFOxkNvvfxvYjPARF6FsS34n+698FCkZJTQ91KteWfVv\nitghTAB+EXk2+QHr+wLP+p6HhWrqwkOcSgGqky+vAoGAXvurIC1GG8ni6WE7zixR\nXjhtiFDBN6cx8Rc/C/a9ZU4zl6GzURhNYpFneJve3OdiRfcjJd2a3sBTt446NSl6\nRnch90eJYeQxO+c7/7T3vtIHt+wXTtiwWEui2t49UarfLzymlXBRfAVka8Yasbip\n3CAeHg8MYDnX48bZL5v+Kus=\n-----END PRIVATE KEY-----\n",
+  "client_email": "david-web-selfie@web-selfie-app.iam.gserviceaccount.com",
+  "client_id": "117286412714379188846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/david-web-selfie%40web-selfie-app.iam.gserviceaccount.com"
+}
