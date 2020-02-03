@@ -5,20 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="styles.css">
+    <script data-main="./scripts/main.js" src="./scripts/require.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Orbitron&display=swap" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
-    <!-- <h1>Welcome to the Selfie web app!</h1>
-    <h4>Please put your face in the middle of the camera to take a picture</h4> -->
+
+    <div id= "intro">
+        <h1>Selfie app!</h1>
+        <h4>Please put your face in the middle of the web cam to take a picture.</h4>
+    </div>
 
     <div class="booth">
         <video id="video" width="400" height="300" autoplay></video>
         <!-- Line above in this div is for video. Lines below in this div are for picture -->
-        <a href="#" id="capture" class="booth-capture-button">Take a photo</a>
+        <a href="#" id="capture" class="booth-capture-button">Take a selfie!</a>
         <canvas id="canvas" width="400" height="300"></canvas>
-        <img id="photo" src="https://placedog.net/400/300?random" alt="Photo of you">
+        <img id="photo" src="robotfun.png" alt="Photo of you">
     </div>
 
-    <script src="video.js"></script>
+    <script>
+        require(['./scripts/google-server.js'], function(detectFaces){
+            let pictureToTest = document.querySelector('#photo')
+            detectFaces(pictureToTest)
+        })
+    </script>
+    <script src="./scripts/main.js" defer></script>
 </body>
 </html>
